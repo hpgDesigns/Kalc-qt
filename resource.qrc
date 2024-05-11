@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/new/icons">
+        <file>kalcqulator_icon.png</file>
+    </qresource>
+</RCC>
